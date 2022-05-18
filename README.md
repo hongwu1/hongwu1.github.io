@@ -12,7 +12,7 @@
   
 </head>
 <body align="center">
-	<h2>baby</h2>
+	<h1>baby</h1>
 	<hr size="2" width="100%" color="red">
 	<marquee><u1>
 		<li><img src="https://github.com/hongwu1/hongwu1.github.io/blob/main/photo1.png"></li>
