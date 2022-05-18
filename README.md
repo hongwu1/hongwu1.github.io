@@ -22,7 +22,7 @@
 		<li><img src="https://github.com/hongwu1/hongwu1.github.io/blob/main/photo5.png"></li>
 
 	</u1></marquee>
-	<hr size="2" width="100%" color="red">
+	<hr size="2" width="100%" color="yellow">
 
 </body>
 </html>
