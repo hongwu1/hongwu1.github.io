@@ -1,5 +1,0 @@
-![]("https://github.com/hongwu1/hongwu1.github.io/blob/main/photo1.png")
-![]("https://github.com/hongwu1/hongwu1.github.io/blob/main/photo2.png")
-![]("https://github.com/hongwu1/hongwu1.github.io/blob/main/photo3.png")
-![]("https://github.com/hongwu1/hongwu1.github.io/blob/main/photo4.png")
-![]("https://github.com/hongwu1/hongwu1.github.io/blob/main/photo5.png")
