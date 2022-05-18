@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<title>图像画廊</title>
 	<style type="text/css">
-		img{width:100px;height:100px;border:2px #cc0066 ridge;}
+		img{width:300px;height:300px;border:2px #cc0066 ridge;}
 		ul{list-style-type:none;}
 		li{float:left;}
 	</style>
